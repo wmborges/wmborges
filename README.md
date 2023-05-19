@@ -1,11 +1,11 @@
 <h1 align="left">Hi, I'm Wagner Borges</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wmborges&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Web Developer student 
+- 🔥 Programming student 
 
 - 🔭 I’m currently working at Bekaert do Brasil as Electical Designer I
 
-- 💬 Ask me about **JavaScript, HTML, CSS**
+- 💬 Ask me about **JavaScript, HTML, CSS, Python**
 
 <br>
 
@@ -18,6 +18,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 <br>
 
