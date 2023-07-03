@@ -3,7 +3,7 @@
 
 - 🔥 Programming student 
 
-- 🔭 I’m currently working at Bekaert do Brasil as Electical Designer I
+- 🔭 I’m currently working as Electical Designer I
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Python**
 
